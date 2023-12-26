@@ -18,7 +18,7 @@ The game follows the traditional rules of Connect Four where two players take tu
 2. Use the mouse to click on the desired column where you want to drop a disc.
 3. Connect four discs of your color to win the game.
 
-##ScreenShots
+## ScreenShots
 ![image](https://github.com/gitdevutku/FourInARow/assets/144778146/7bc349e2-2c51-4061-a47c-1a5c49d433a9)
 
 ## Controls
